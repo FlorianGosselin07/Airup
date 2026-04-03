@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 
-@import url("../components/container.css");
-@import url("../components/button.css");
-@import url("../components/banner.css");
-@import url("../components/card.css");
+@import url("/Airup/components/container.css");
+@import url("/Airup/components/button.css");
+@import url("/Airup/components/banner.css");
+@import url("/Airup/components/card.css");
 
 
 body {
